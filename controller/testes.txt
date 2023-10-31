@@ -1,0 +1,14 @@
+teste create
+{
+"nome_produto": "Produto 04",
+"cod_produto": 11222211222,
+"preco_produto": 80.00
+}
+
+teste update
+{
+"nome_produto": "Produtos 04",
+"cod_produto": 11222,
+"preco_produto": 60.00
+}
+
